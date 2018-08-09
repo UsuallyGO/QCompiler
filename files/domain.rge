@@ -1,0 +1,7 @@
+#this is a comment
+
+keywords = {if, else, while, return, function}
+operators = {+, -, *, /}
+symbols = {(, )}
+datatypes = {int, double, string}
+ID = {([a-c]|[A-C])|([a-c]|[A-C])*}
