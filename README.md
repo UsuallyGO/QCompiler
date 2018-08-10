@@ -14,4 +14,4 @@ terminals and nonterminals，the nonterminals should be wrapped by angle bracket
 sentence.stn gives some sample sentences, if the grammar has been correctly parsed, the sentences can deduce to a 
 syntax tree.
 
-Some result will be displayed as graph, use Dot tools to generate visual files from *.gv.
+Some results will be displayed as graph, use Dot tools to generate visual files from *.gv.
